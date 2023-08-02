@@ -1,10 +1,10 @@
-# portfolio
+# IDE-Portfolio
 
-A new Flutter project.
+This is my portfolio / resume, designed as an IDE (Inspired by VSCode)
 
-## Getting Started
+## Facts
 
-This project is a starting point for a Flutter application.
+This project is a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
